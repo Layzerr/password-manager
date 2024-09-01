@@ -8,6 +8,8 @@ This is a secure and user-friendly Password Manager application built using Pyth
 - Local Storage: Passwords are stored locally on your machine in an encrypted format.
 - Cross-Platform: Works on Windows, macOS, and Linux.
 
+## Demo
+
 ## Getting Started
 ### Prerequisites:
 - Python 3.6+
@@ -19,7 +21,41 @@ The most straightforward way is to install the program using the provided .exe f
 
 ### Hard Way:
 If you want Set-up the program for yourself you can use the following commands:
+#### Steps:
+1. Clone this repository:
+```
+git clone https://github.com/Layzerr/password-manager.git
+cd password-manager
+```
+2. Install the Required Dependencies:
+```
+pip install -r requirements.txt
+```
+3. Run The Application
+```
+python main.py
+```
+#### Building the Executable:
+To build the application into a standalone executable:
 
-**Installation**
-Clone this repository:
+1. Ensure PyInstaller is installed:
+```
+pip install pyinstaller
+```
+2. Run the following command:
+```
+pyinstaller --onefile --windowed main.py
+```
+The executable will be created in the dist folder. Move to the Main Folder and you are Done.
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+For any inquiries or suggestions, feel free to contact me at aryanahmad.anabat@gmail.com
+
+
 
