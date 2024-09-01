@@ -9,6 +9,14 @@ This is a secure and user-friendly Password Manager application built using Pyth
 - Cross-Platform: Works on Windows, macOS, and Linux.
 
 ## Demo
+Here is a Short Demo
+
+![Demo showing the Basic Functionality Of the Program (excluding encryption and decryption](https://github.com/Layzerr/password-manager/blob/main/assets/Demo%20Password%20Manager%20GIF.gif)
+
+This demo doesn't go over the Encryption and Decryption part (the fun part) so I recommend using the Next Steps to Install the Program in full. 
+**NOTE**
+It works completely offline, as proved by the Code.
+
 
 ## Getting Started
 ### Prerequisites:
