@@ -7,7 +7,7 @@ This is a secure and user-friendly Password Manager application built using Pyth
 - Intuitive Interface: Simple and easy-to-use graphical interface built with Tkinter.
 - Local Storage: Passwords are stored locally on your machine in an encrypted format.
 - Cross-Platform: Works on Windows, macOS, and Linux.
-- 
+
 ## Getting Started
 ### Prerequisites:
 - Python 3.6+
